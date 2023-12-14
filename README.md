@@ -5,7 +5,7 @@
 
 <div align="center"> 
   
- ## :earth_asia: Tech Stack :earth_asia: <br>
+:earth_asia: Tech Stack :earth_asia: <br>
  
   :whale2: Platforms & Languages :whale2: <br>
   
