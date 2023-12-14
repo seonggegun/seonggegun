@@ -4,6 +4,7 @@
 </div> <br>
 
 <div align="center"> 
+  
  <h2>  :earth_asia: Tech Stack :earth_asia: </h2> <br>
  
   :whale2: Platforms & Languages :whale2: <br>
