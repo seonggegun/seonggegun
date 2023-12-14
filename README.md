@@ -5,7 +5,7 @@
 
 <div align="center"> 
   
- <h2>:earth_asia: Tech Stack :earth_asia:</h2> <br>
+ :earth_asia: <h2> Tech Stack </h2> :earth_asia: <br>
  
   :whale2: Platforms & Languages :whale2: <br>
   
